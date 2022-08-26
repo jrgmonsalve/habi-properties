@@ -2,11 +2,13 @@
 
 ## Tech stack
 - Python
+- MySql
 
 ## Cómo vas a abordar el desarrollo.
 - Leer bien los requeirmientos y comprender el alcance de lo que se debe hacer.
 - La arquitectura del proyecto sera DDD hexagonal para .
-- Realizar un diagrama de la DB y hacer la propuesta de como 
+- Realizar un diagrama de la DB y hacer la propuesta de una posible mejora
+- Construir el scalfolding de la aplicacion
 - Luego aplicando TDD voy a ir construyendo lo que se pide para el servicio de consulta
 
 

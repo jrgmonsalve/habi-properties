@@ -1,0 +1,5 @@
+mysql_connection:
+  host: ""
+  port: 0
+  user: ""
+  pass: ""
