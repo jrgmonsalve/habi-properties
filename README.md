@@ -3,6 +3,10 @@
 ## Tech stack
 - Python
 - MySql
+- serverless framework
+- lambda
+- AWS
+
 
 ## Cómo vas a abordar el desarrollo.
 - Leer bien los requeirmientos y comprender el alcance de lo que se debe hacer.
@@ -13,8 +17,15 @@
 
 
 
-## Dudas y como resolvi
+## Dudas, problemas y como resolvi
 - El primer repo va a ser el de consultar y el esqueleto va servir de base para el repo de likes
-- voy a investigar como montar un API sin framework (https://pythonbasics.org/webserver/) 
-- pensar si el esquelto lo monto con DDD hexagonal arquitectura o simple MVC
-- una vez tenga el esqueleto 
+- Voy a investigar como montar un API sin framework (https://pythonbasics.org/webserver/)
+  - Despues de buscar un codigo en internet de un mini server lo vi igual de simple que montar una AWS lambda 
+- Pensar si el esquelto lo monto con DDD o simple MVC
+  - Me inclino por DDD pq he leido que tambien se puede aplicar a proyectos pequeños y escala muy bien si se necesita modificar 
+- Problema con las rutas al ejecutar el codigo
+  - buscando solucion...
+
+## Mejoras en las DBs
+- ver diagrama docs/habi_db_schema.jpg
+- implementar indices en los campos de busquedas

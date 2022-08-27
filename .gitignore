@@ -10,6 +10,8 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+src/node_modules/
+.serverless/
 dist/
 downloads/
 eggs/
