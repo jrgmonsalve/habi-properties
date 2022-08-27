@@ -27,5 +27,5 @@
   - buscando solucion...
 
 ## Mejoras en las DBs
-- ver diagrama docs/habi_db_schema.jpg
+- [ver diagrama](https://github.com/jrgmonsalve/habi-properties-read/blob/main/docs/habi_db_schema.jpg)
 - implementar indices en los campos de busquedas
